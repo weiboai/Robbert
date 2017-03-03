@@ -1,4 +1,7 @@
-﻿# nlp project
+﻿#python版本为3.5.2
+#tensorflow版本为'0.12.1'
+
+# nlp project
 训练tensorflow模型来生成文字内容
 
 ## 训练（训练模型）
